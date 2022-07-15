@@ -4,7 +4,7 @@ id: application
 title: 참여 방법
 ---
 
-# 참여 방법 ![ilzom_next](../../static/img/ilzom.jpeg)
+# 참여 방법 ![ilzom_next](../../static/img/ilzom_logo.png)
 
 ## 1. **Application 작성**
 >  - Name, E-mail, Twitter, Graduation Year??

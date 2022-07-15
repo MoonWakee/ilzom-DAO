@@ -6,7 +6,7 @@ slug: /
 
 # iLZOM DAO 개요
 
-![ilzom_intro](../../static/img/ilzom.jpeg)
+![ilzom_intro](../../static/img/ilzom_logo.png)
 
 ## 배경
 

@@ -55,7 +55,7 @@ const config = {
         title: 'iLZOM DAO',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/ilzom.jpeg',
+          src: 'img/ilzom_logo.png',
         },
         items: [
           {
