@@ -46,3 +46,13 @@ slug: /
 - 같은 분야뿐만 아니라 프로젝트에 필요한 다양한 분야의 학생들을 쉽게 만날 수 있습니다.
   - `Web3 창업 - UI/UX 디자이너, Front-end/Back-end, PM, Marketing, BizDev` 
 
+## 참고 DAO
+### [RaidGuild DAO](https://handbook.raidguild.org/docs/overview-what-is-raid-guild)
+![RaidGuild pic](../../static/img/raidguild_img.png)
+
+> - 일을 목표로 모인 사람들의 **RaidGuild DAO** (Protocol DAO, Service DAO)
+- Web3 제품들을 Raid 토큰 사게 하는 받는 댓가로 만들어줌. (DeFi Dashbords, dApps, tokens, 등)
+- 다양한 분야의 사람들이 모여 들어오는 일들을 알아서 전담함
+  - `Developers`: *Design, Data Science/Analysist, Front/Backend, UX/User Testing, Smart Contracts 등*
+  - `Non-Developers`: *Treasury, Marketing, PM, Account Manager, Legal, Content Creator, Community 등*
+- 일한 인센티브는 Raid 토큰을 받음으로써 얻어감
