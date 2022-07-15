@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'iLZOM DAO',
+  tagline: 'DAO for projectz',
   url: 'https://MoonWakee.github.io',
   baseUrl: '/ilzom-DAO/',
   onBrokenLinks: 'ignore',
@@ -54,7 +54,7 @@ const config = {
       navbar: {
         title: 'iLZOM DAO',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'ilzom Logo',
           src: 'img/ilzom_logo.png',
         },
         items: [
