@@ -4,7 +4,7 @@ id: intro
 slug: /
 ---
 
-# Ilzom DAO 개요
+# iLZOM DAO 개요
 
 ## 배경
 
