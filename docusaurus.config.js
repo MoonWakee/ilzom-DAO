@@ -8,17 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  url: 'https://MoonWakee.github.io',
+  baseUrl: '/ilzom-DAO/',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'MoonWakee', // Usually your GitHub org/user name.
+  projectName: 'ilzom-DAO', // Usually your repo name.
+  deploymentBranch: "gh-pages",
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/MoonWakee/ilzom-DAO/tree/main/',
         },
         blog: false,
         theme: {
@@ -59,7 +59,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/MoonWakee/ilzom-DAO',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,12 +99,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/MoonWakee/ilzom-DAO',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} IlzomDAO`,
       },
       prism: {
         theme: lightCodeTheme,
