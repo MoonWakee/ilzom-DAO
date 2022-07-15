@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
 id: application
+title: 참여 방법
 ---
 
-# 참여 방법
+# 참여 방법 ![ilzom_next](../../static/img/ilzom.jpeg)
 
 ## 1. **Application 작성**
 >  - Name, E-mail, Twitter, Graduation Year??

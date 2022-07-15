@@ -6,6 +6,8 @@ slug: /
 
 # iLZOM DAO 개요
 
+![ilzom_intro](../../static/img/ilzom.jpeg)
+
 ## 배경
 
 **`학생들이 원하는 프로젝트`**
@@ -48,7 +50,7 @@ slug: /
 
 ## 참고 DAO
 ### [RaidGuild DAO](https://handbook.raidguild.org/docs/overview-what-is-raid-guild)
-![RaidGuild pic](../../static/img/raidguild_img.png)
+![RaidGuild_intro](../../static/img/raidguild_img.png)
 
 > - 일을 목표로 모인 사람들의 **RaidGuild DAO** (Protocol DAO, Service DAO)
 - Web3 제품들을 Raid 토큰 사게 하는 받는 댓가로 만들어줌. (DeFi Dashbords, dApps, tokens, 등)

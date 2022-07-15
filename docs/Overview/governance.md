@@ -1,9 +1,10 @@
 ---
 sidebar_position: 3
 id: governance
+title: 운영 방식
 ---
 
-# 운영 방식
+# 운영 방식 ![ilzom_next](../../static/img/ilzom.jpeg)
 
 ## Authority
 > - 다양한 관리 모델들 사용 (조언, 동의, 투표, soft and hard consensus 등)
