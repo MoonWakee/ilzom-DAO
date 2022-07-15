@@ -55,7 +55,7 @@ const config = {
         title: 'iLZOM DAO',
         logo: {
           alt: 'ilzom Logo',
-          src: 'img/ilzom_logo.png',
+          src: 'img/ilzom_orange.png',
         },
         items: [
           {
@@ -66,7 +66,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        // style: 'dark',
         links: [
           // {
           //   title: 'Community',
