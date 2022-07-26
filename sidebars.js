@@ -44,6 +44,10 @@ const sidebars = {
         {
           type: 'doc',
           id: 'Governance/membership'
+        },
+        {
+          type: 'doc',
+          id: 'Governance/token'
         }
       ]
     }
