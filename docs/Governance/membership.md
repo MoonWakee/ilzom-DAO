@@ -4,7 +4,7 @@ id: membership
 title: Membership
 ---
 
-# Lv 1 ![ilzom_next](../../static/img/ilzom_orange.png)
+# 멤버십 ![ilzom_next](../../static/img/ilzom_orange.png)
 
 | 레벨 | 레벨업 조건 |   특권 |  Governance |
 :----:|  :----: | :----: |    :----:   |
