@@ -7,11 +7,11 @@ title: 참여 방법
 # 참여 방법 ![ilzom_next](../../static/img/ilzom_orange.png)
 
 ## 1. **Application 작성**
->  - Name, E-mail, Twitter, Graduation Year??
+>  - Name, E-mail, Twitter, Graduation Year
   - Crypto Wallet 연결
-  - Major, Interest, Skillset 
+  - Major, Interest, Skillset (Previous projects)
   - Short introduction about oneself and reasons why you would like to join this DAO/purpose of joining this DAO
-  - Talent, potential and possibility, energy 중점으로 보기
+    - Talent, potential and possibility, energy 중점으로 보기
 
 ## 2. **Discord 초대**
 >  - Position 기입 (Select roles that represent your skillset)
@@ -26,4 +26,7 @@ title: 참여 방법
   - Governance token을 가진 사람들은 자신이 마음에 드는 프로젝트에 우선권으로 지원/참여 가능
   - Governance token을 가진 사람들은 오프라인 행사 우선 참석권 부여
   - Validator 들에게도 일정량의 token 부여
+  - 커뮤니티 활동 
+    - 오프라인 이벤트 참석
+    - 온라인 커뮤니티 활성화
 

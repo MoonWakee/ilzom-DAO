@@ -31,12 +31,22 @@ const sidebars = {
           type: 'doc',
           id: 'Overview/application'
         },
-        {
-          type: 'doc',
-          id: 'Overview/governance'
-        }
       ],
     },
+    {
+      type: 'category',
+      label: 'Governance',
+      items: [
+        {
+          type: 'doc',
+          id: 'Governance/governance'
+        },
+        {
+          type: 'doc',
+          id: 'Governance/membership'
+        }
+      ]
+    }
   ]
    
 };
