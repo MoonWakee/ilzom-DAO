@@ -39,16 +39,16 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Governance/governance'
-        },
-        {
-          type: 'doc',
           id: 'Governance/membership'
         },
         {
           type: 'doc',
           id: 'Governance/token'
-        }
+        },  
+        {
+          type: 'doc',
+          id: 'Governance/governance'
+        },
       ]
     }
   ]
